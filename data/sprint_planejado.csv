@@ -1,0 +1,5 @@
+execution_order,item_id,valor_trilha_a,story_points,dependencies,has_dependencies
+1,13,2.25,3,[],False
+2,1,2.25,1,[],False
+3,2,2.25,1,['1'],True
+4,3,2.25,1,['1'],True

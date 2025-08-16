@@ -1,0 +1,10 @@
+PLANEJAMENTO DE SPRINT - TEAM 1
+==================================================
+
+Probabilidade de sucesso: 97.1%
+Valor total: 9.00
+SP estimados: 6
+SP efetivos esperados: 5.5
+Capacidade média: 9.2
+Número de itens: 4
+Utilização: 59.5%
