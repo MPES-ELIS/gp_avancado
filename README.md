@@ -164,11 +164,7 @@ python -m ipykernel install --user --name gp-avancado
 3. Faça *PR* com descrição, screenshots e resultados.  
 4. Garantir execução limpa dos notebooks.
 
----
 
-## 📄 Licença
-
-Defina a licença do projeto (ex.: MIT).
 
 ---
 
