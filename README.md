@@ -1,6 +1,6 @@
 # Priorização & Planejamento com IA — ELIS (Equipe 1)
 
-> **Backlog ranking (Trilha A) + Sprint generator (Trilha B)** com ML e otimização sob incerteza.
+> **O Relatório está no arquivo relatório.md .
 
 ---
 
